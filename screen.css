@@ -1,0 +1,13 @@
+#resume #courses ul
+{
+  height: 300px;
+   -webkit-column-count: 3;
+      -moz-column-count: 3;
+           column-count: 3;
+}
+
+#resume #courses ul
+{
+display: inline-block;
+    padding-bottom: 20px;
+}
